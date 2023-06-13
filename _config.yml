@@ -1,20 +1,21 @@
 # site settings
 
 title: Yee Sien Lee
-description: Robotics Engineer
-taglong: Robotics Engineer
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+description: Robotics Software Engineer @ LionsBot International
+taglong: Robotics Software Engineer @ LionsBot International
+tagshort: Robotics Software Engineer
+domain: ylee079.github.io
+url: https://ylee079.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/ylee079/ylee079.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/photo.jpg
+  name: Yee Sien Lee
+  email: leeyeesien@yahoo.com.sg
+photo: /assets/profile_pic.jpg
 
 # build settings
 
